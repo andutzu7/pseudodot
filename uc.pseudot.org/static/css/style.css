@@ -1,6 +1,7 @@
 html{
   /* filter: invert(1) hue-rotate(180deg); */
-  background: linear-gradient(#008b8b,black) fixed;
+background: linear-gradient(#E600BF,black) fixed;
+
 }
 
 body {
@@ -161,14 +162,13 @@ nav.navigation a:hover {
 }
 
 nav.navigation a.button {
-  background: #5badf0;
   color: #fff;
   margin-left: 12px;
 }
 @media (max-width: 700px) {
   nav.navigation {
     background: #fff;
-    background: rgba(25, 25, 25, 0.9);  
+    background: rgba(25, 25, 25, 0.9);
     margin: 0 auto;
     text-align: right;
     z-index: 100;
@@ -255,7 +255,7 @@ nav.navigation a.button {
 
 .profile {
   margin: 60px auto 0 auto;
-  text-align: center;
+  text-align: left;
 }
 
 .profile .avatar {
@@ -292,7 +292,7 @@ nav.navigation a.button {
 
 #list-page .title {
   display: inline-block;
-  color:#4dffdb;
+  color:#C2B09D;
   font-size: 20px;
   font-weight: 400;
   margin: 0;
@@ -300,12 +300,11 @@ nav.navigation a.button {
 }
 
 #list-page .title a {
-  color:#4dffdb;
+  color:#C2B09D;
   display: block;
 }
-
 #list-page .title a:hover {
-  color: #0366d6;
+  color: #e85590;
 }
 
 #list-page .date {
@@ -314,7 +313,7 @@ nav.navigation a.button {
   text-align: right;
   position: relative;
   top: 1px;
-  color: #b3fff0;
+  color: #7FAC3F;
 }
 
 #list-page .summary {
@@ -428,17 +427,18 @@ nav.navigation a.button {
 }
 #archive .group .value .date {
   display: inline-block;
-  color: #b3fff0;
+  color: #7FAC3F;
   min-width: 60px;
 }
 #archive .group .value .title {
   display: inline;
 }
 #archive .group .value .title a {
-  color:#4dffdb;
+
+  color:#C2B09D;
 }
 #archive .group .value .title a:hover {
-  color: #0366d6;
+  color: #e85590;
 }
 #archive .group .value .tags {
   display: inline;
@@ -540,17 +540,18 @@ nav.navigation a.button {
     text-transform: lowercase;
     color: #fff;
     margin-bottom: 10%;
-    margin-right: 31%;
+    margin-right: 2%;
     text-align: right;
     font-size: 90%;
 }
 .main-title{
 
-    font-size: 5em;
+    font-size: 2em;
+	display:block;
+	padding-left:3%;
     font-weight: bold;
-    margin-bottom: 5%;
-
-    color:#4DE1FF
+    margin-bottom: 2%;
+	font-family: "Times New Roman", Times, serif;
 
 }
 
@@ -561,5 +562,3 @@ nav.navigation a.button {
     padding-bottom:1%;
 position:relative;
 }
-
-

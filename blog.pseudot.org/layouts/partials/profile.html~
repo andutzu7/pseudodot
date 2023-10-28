@@ -1,6 +1,0 @@
-<header class="profile">
-
-    {{ with .Site.Params.Motto }}
-      <h2 class="motto">{{ . | markdownify }}</h2>
-    {{ end }}
-</header>

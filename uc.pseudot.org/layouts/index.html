@@ -1,5 +1,13 @@
+
 {{ define "main" }}
-{{ partial "profile.html" . }}
+
+    <h1 class="main-title">{{ .Site.Title }}</h1>
+    
+    {{ with .Site.Params.Motto }}
+	<h2 class="motto">{{ . | markdownify }}</h2>
+    {{ end }}
+
+	{{ partial "profile.html" . }}
 
 <div id="list-page">
     {{ $pages := .Site.RegularPages }}

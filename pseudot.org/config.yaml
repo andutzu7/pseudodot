@@ -41,7 +41,7 @@ params:
   # Site Author
   author: Andy
   # Site Motto
-  motto: 
+  motto:
   # Site Description, used in HTML meat
   description: Main page
 
@@ -51,7 +51,7 @@ params:
   ###########################################
 
   # To enable RSS, you could set `enableRSS: true`, default is `true`
-  enableRSS: false
+  enableRSS: true
   # To enable table of content, you could set `showToc: true`, default is `false`
   showToc: true
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
@@ -61,7 +61,7 @@ params:
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
   # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
-  copyright: '' 
+  copyright: ''
 
   # Extra links in navigation
   links:
@@ -73,8 +73,6 @@ params:
        url: https://photos.pseudot.org/
      - name: programming
        url: https://programming.pseudot.org/
-     - name: music
-       url: https://music.pseudot.org/
      - name: uc
        url: https://uc.pseudot.org/
 
