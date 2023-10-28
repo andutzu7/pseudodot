@@ -1,0 +1,14 @@
+
+	<div class="network">
+<nav class="main-nav" role="navigation">
+<ul id="menu" class="main-nav__list">
+	{{ range $element := .Site.Params.Links }}
+		<a class="main-nav__item" href="{{ $element.url }}">{{ $element.name }}</a>
+	{{ end }}
+
+	<a class="main-nav__item" href="{{.Site.RSSLink}}">subscribe</a>
+
+</ul>
+</nav>
+
+	</div>
