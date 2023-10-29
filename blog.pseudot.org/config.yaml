@@ -82,6 +82,4 @@ params:
     # - css/custom.css # local css in `static/css/custom.css`
     # - https://example.com/custom.css # remote css
   customJS:
-    ## e.g.
-    # - js/custom.js # local js in `static/js/custom.js`
-    # - https://example.com/custom.js # remote js
+    - https://webneko.net/n20171213.js

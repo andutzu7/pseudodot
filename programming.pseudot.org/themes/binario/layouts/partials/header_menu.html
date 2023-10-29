@@ -1,14 +1,21 @@
 
-	<div class="network">
-<nav class="main-nav" role="navigation">
+<div class="network">
+<nav class="main-nav{{ if eq .Site.Params.mainMenuAlignment "right" }} main-nav--right{{ end }}" role="navigation">
 <ul id="menu" class="main-nav__list">
+
+
 	{{ range $element := .Site.Params.Links }}
-		<a class="main-nav__item" href="{{ $element.url }}">{{ $element.name }}</a>
+
+	<li class="main-nav__item">
+		<a class="main-nav__link" href="{{ $element.url }}">
+			<span class="main-nav__text">{{ $element.name }}</span>
+		</a>
+	</li>
+
 	{{ end }}
 
 	<a class="main-nav__item" href="{{.Site.RSSLink}}">subscribe</a>
-
 </ul>
 </nav>
 
-	</div>
+</div>

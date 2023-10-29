@@ -164,7 +164,6 @@ th {
 }
 
 .no-js .main-nav__btn {
-	display: none;
 }
 
 .main-nav__btn {
@@ -207,16 +206,7 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 	outline: none;
 }
 
-.main-nav__btn .icon-menu__burger {
-	display: inline;
-}
-
 .main-nav__btn .icon-menu__x {
-	display: none;
-}
-
-.main-nav__btn--active .icon-menu__burger {
-	display: none;
 }
 
 .main-nav__btn--active .icon-menu__x {
@@ -264,7 +254,6 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 }
 
 .js .main-nav__list {
-	display: none;
 }
 
 .js .main-nav__btn {
@@ -291,13 +280,6 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 		display: block;
 	}
 
-	.js .main-nav__btn {
-		display: none;
-	}
-
-	.main-nav__btn {
-		display: none;
-	}
 
 	.main-nav {
 		display: flex;

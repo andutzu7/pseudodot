@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pseudoprogramming</title>
+    <link>https://programming.pseudot.org/</link>
+    <description>Recent content on Pseudoprogramming</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://programming.pseudot.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic HTML Elements</title>
+      <link>https://programming.pseudot.org/posts/basic-elements/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://programming.pseudot.org/posts/basic-elements/</guid>
+      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MathJax</title>
+      <link>https://programming.pseudot.org/posts/mathjax/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://programming.pseudot.org/posts/mathjax/</guid>
+      <description>&lt;p&gt;MathJax JavaScript library allows you to include mathematics in your web pages for viewing in any modern browser.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Translation Support</title>
+      <link>https://programming.pseudot.org/posts/translation/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://programming.pseudot.org/posts/translation/</guid>
+      <description>&lt;p&gt;With Hugo i18n possibilities, you can easily have a website in your language. This Hugo theme is ready to be translated into other languages. You can create a special file that contains translated text to show the visitor instead of English.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Featured Images</title>
+      <link>https://programming.pseudot.org/posts/featured-images/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://programming.pseudot.org/posts/featured-images/</guid>
+      <description>&lt;p&gt;Featured image is the image that appears on summaries at the list pages and the top of content pages. Every content page
+in this theme can have a featured image.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo Syntax Highlighting</title>
+      <link>https://programming.pseudot.org/posts/syntax-highlighting/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://programming.pseudot.org/posts/syntax-highlighting/</guid>
+      <description>&lt;p&gt;You can have code snippets highlighted so that they are easier to read on your site using Chroma, Hugo&amp;rsquo;s default syntax highlighter. It is built in Go lang and is really, really fast – and for the most important parts compatible with Pygments. Chroma takes source code and other structured text and converts it into syntax highlighted HTML, ANSI-coloured text, etc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://programming.pseudot.org/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://programming.pseudot.org/posts/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+  </channel>
+</rss>

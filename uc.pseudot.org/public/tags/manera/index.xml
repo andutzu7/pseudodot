@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manera on pseudo??</title>
+    <link>https://uc.pseudot.org/tags/manera/</link>
+    <description>Recent content in Manera on pseudo??</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uc.pseudot.org/tags/manera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bla bla bla Medicina</title>
+      <link>https://uc.pseudot.org/posts/bla-bla-bla-medicina/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uc.pseudot.org/posts/bla-bla-bla-medicina/</guid>
+      <description>parler moi un peu</description>
+    </item>
+    
+    <item>
+      <title>Information Highway</title>
+      <link>https://uc.pseudot.org/posts/information-highway/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uc.pseudot.org/posts/information-highway/</guid>
+      <description>parler moi un peu</description>
+    </item>
+    
+  </channel>
+</rss>

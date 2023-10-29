@@ -13,6 +13,7 @@ tags = [
 +++
 
 
-![Ciao](images/screenshot.png "Title")
+![Ciao](images/screenshot.png)
+
 
 parler moi un peu
