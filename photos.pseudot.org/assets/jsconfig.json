@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../../../../../../../../home/andy/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/bep/gallerydeluxe@v0.11.1/assets/*"
+   ]
+  }
+ }
+}
