@@ -81,8 +81,8 @@ disableKinds = ["section", "taxonomy", "term"]
   name = "books"
   url = "https://books.pseudot.org/"
 [[Params.links]]
-  name = "photography"
-  url = "https://photos.pseudot.org/"
+  name = "programming"
+  url = "https://programming.pseudot.org/"
 [[Params.links]]
   name = "uc"
   url = "https://uc.pseudot.org/"
