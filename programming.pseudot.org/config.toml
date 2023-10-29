@@ -86,6 +86,9 @@ theme = "binario"
 [[Params.links]]
   name = "uc"
   url = "https://uc.pseudot.org/"
+[[Params.links]]
+  name = "about"
+  url = "https://pseudot.org/about"
 
 [outputFormats]
   [outputFormats.MANIFEST]
