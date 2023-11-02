@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>basics on pseudoprogramming</title>
+    <link>https://programming.pseudot.org/tags/basics/</link>
+    <description>Recent content in basics on pseudoprogramming</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2023 01:19:02 +0200</lastBuildDate><atom:link href="https://programming.pseudot.org/tags/basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The trigonometric circle</title>
+      <link>https://programming.pseudot.org/posts/the-trigonometric-circle/</link>
+      <pubDate>Wed, 01 Nov 2023 01:19:02 +0200</pubDate>
+      
+      <guid>https://programming.pseudot.org/posts/the-trigonometric-circle/</guid>
+      <description>&lt;p&gt;Short 101 on about the basis of trigonometry.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

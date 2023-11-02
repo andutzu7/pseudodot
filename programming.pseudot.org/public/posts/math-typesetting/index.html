@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <title>Math Typesetting | pseudo??</title>
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
+<meta name="viewport" content="width=device-width,minimum-scale=1">
+<meta name="description" content="A brief guide to setup KaTeX">
+<meta name="generator" content="Hugo 0.119.0">
+
+
+  <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
+
+<link rel="stylesheet" href="/css/style.css">
+
+
+
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+
+
+
+
+  
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
+
+
+
+
+
+  </head>
+
+  <body>
+    <nav class="navigation">
+	
+		<a href="/"> <span class="arrow">←</span>home</a>
+	
+
+	
+		<a href="https://pseudot.org/">main</a>
+	
+		<a href="https://uc.pseudot.org/">blog</a>
+	
+		<a href="https://books.pseudot.org/">books</a>
+	
+		<a href="https://photos.pseudot.org/">photography</a>
+	
+		<a href="https://programming.pseudot.org/">programming</a>
+	
+	
+	<a href="/about">about</a>
+	<a href="/posts">archive</a>
+
+
+	
+	  <a class="button" href="https://uc.pseudot.org/index.xml">subscribe</a>
+	
+</nav>
+
+
+    <main class="main">
+      
+
+<section id="single">
+    <h1 class="title">Math Typesetting</h1>
+
+    <div class="tip">
+        <time datetime="2019-03-08 00:00:00 &#43;0000 UTC">Mar 8, 2019</time>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          115 words
+        </span>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          1 minute read
+        </span>
+    </div>
+
+    
+    
+        
+  
+    <aside class="toc">
+      <details>
+          <summary>Table of Contents
+          </summary>
+          <div>
+              <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#examples">Examples</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+          </div>
+      </details>
+    </aside>
+  
+
+
+    
+
+
+    <div class="content">
+      <p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
+<p>In this example we will be using <a href="https://katex.org/" target="_blank" rel="noopener">KaTeX</a></p>
+<ul>
+<li>Create a partial under <code>/layouts/partials/math.html</code></li>
+<li>Within this partial reference the <a href="https://katex.org/docs/autorender.html" target="_blank" rel="noopener">Auto-render Extension</a> or host these scripts locally.</li>
+<li>Include the partial in your templates like so:</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#666">{{</span> <span style="color:#a2f;font-weight:bold">if</span> or .Params.math .Site.Params.math <span style="color:#666">}}</span>
+</span></span><span style="display:flex;"><span><span style="color:#666">{{</span> partial <span style="color:#b44">&#34;math.html&#34;</span> . <span style="color:#666">}}</span>
+</span></span><span style="display:flex;"><span><span style="color:#666">{{</span> end <span style="color:#666">}}</span>
+</span></span></code></pre></div><ul>
+<li>To enable KaTex globally set the parameter <code>math</code> to <code>true</code> in a project&rsquo;s configuration</li>
+<li>To enable KaTex on a per page basis include the parameter <code>math: true</code> in content files</li>
+</ul>
+<p><strong>Note:</strong> Use the online reference of <a href="https://katex.org/docs/supported.html" target="_blank" rel="noopener">Supported TeX Functions</a></p>
+
+<h3 id="examples">Examples <a href="#examples" class="anchor">🔗</a></h3>
+<p>Block math:
+$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$</p>
+    </div>
+
+    
+    
+    
+
+</section>
+
+
+    </main>
+    
+    
+  </body>
+</html>

@@ -1,99 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Pseudoprogramming</title>
+    <title>Tags on pseudoprogramming</title>
     <link>https://programming.pseudot.org/tags/</link>
-    <description>Recent content in Tags on Pseudoprogramming</description>
+    <description>Recent content in Tags on pseudoprogramming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://programming.pseudot.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Nov 2023 01:19:02 +0200</lastBuildDate><atom:link href="https://programming.pseudot.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Basic Elements</title>
-      <link>https://programming.pseudot.org/tags/basic-elements/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <title>basics</title>
+      <link>https://programming.pseudot.org/tags/basics/</link>
+      <pubDate>Wed, 01 Nov 2023 01:19:02 +0200</pubDate>
       
-      <guid>https://programming.pseudot.org/tags/basic-elements/</guid>
+      <guid>https://programming.pseudot.org/tags/basics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CSS</title>
-      <link>https://programming.pseudot.org/tags/css/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <title>math</title>
+      <link>https://programming.pseudot.org/tags/math/</link>
+      <pubDate>Wed, 01 Nov 2023 01:19:02 +0200</pubDate>
       
-      <guid>https://programming.pseudot.org/tags/css/</guid>
+      <guid>https://programming.pseudot.org/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>HTML</title>
-      <link>https://programming.pseudot.org/tags/html/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <title>bash</title>
+      <link>https://programming.pseudot.org/tags/bash/</link>
+      <pubDate>Sat, 18 Sep 2021 17:20:13 +0300</pubDate>
       
-      <guid>https://programming.pseudot.org/tags/html/</guid>
+      <guid>https://programming.pseudot.org/tags/bash/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MathJax</title>
-      <link>https://programming.pseudot.org/tags/mathjax/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <title>utilitaries</title>
+      <link>https://programming.pseudot.org/tags/utilitaries/</link>
+      <pubDate>Sat, 18 Sep 2021 17:20:13 +0300</pubDate>
       
-      <guid>https://programming.pseudot.org/tags/mathjax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://programming.pseudot.org/tags/hugo/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://programming.pseudot.org/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>i18n</title>
-      <link>https://programming.pseudot.org/tags/i18n/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://programming.pseudot.org/tags/i18n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Translation</title>
-      <link>https://programming.pseudot.org/tags/translation/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://programming.pseudot.org/tags/translation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chroma</title>
-      <link>https://programming.pseudot.org/tags/chroma/</link>
-      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://programming.pseudot.org/tags/chroma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>https://programming.pseudot.org/tags/markdown/</link>
-      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://programming.pseudot.org/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>https://programming.pseudot.org/tags/syntax-highlighting/</link>
-      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://programming.pseudot.org/tags/syntax-highlighting/</guid>
+      <guid>https://programming.pseudot.org/tags/utilitaries/</guid>
       <description></description>
     </item>
     

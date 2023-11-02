@@ -2,67 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://programming.pseudot.org/tags/basic-elements/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+    <loc>https://programming.pseudot.org/tags/basics/</loc>
+    <lastmod>2023-11-01T01:19:02+02:00</lastmod>
   </url><url>
-    <loc>https://programming.pseudot.org/posts/basic-elements/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://programming.pseudot.org/categories/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://programming.pseudot.org/tags/css/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://programming.pseudot.org/categories/development/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://programming.pseudot.org/tags/html/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+    <loc>https://programming.pseudot.org/tags/math/</loc>
+    <lastmod>2023-11-01T01:19:02+02:00</lastmod>
   </url><url>
     <loc>https://programming.pseudot.org/posts/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-01T01:19:02+02:00</lastmod>
   </url><url>
     <loc>https://programming.pseudot.org/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-01T01:19:02+02:00</lastmod>
   </url><url>
     <loc>https://programming.pseudot.org/tags/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-01T01:19:02+02:00</lastmod>
   </url><url>
-    <loc>https://programming.pseudot.org/tags/mathjax/</loc>
-    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+    <loc>https://programming.pseudot.org/posts/the-trigonometric-circle/</loc>
+    <lastmod>2023-11-01T01:19:02+02:00</lastmod>
   </url><url>
-    <loc>https://programming.pseudot.org/posts/mathjax/</loc>
-    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+    <loc>https://programming.pseudot.org/posts/automatize-playlist-creation-using-sed/</loc>
+    <lastmod>2021-09-18T17:20:13+03:00</lastmod>
   </url><url>
-    <loc>https://programming.pseudot.org/tags/hugo/</loc>
-    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+    <loc>https://programming.pseudot.org/tags/bash/</loc>
+    <lastmod>2021-09-18T17:20:13+03:00</lastmod>
   </url><url>
-    <loc>https://programming.pseudot.org/tags/i18n/</loc>
-    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+    <loc>https://programming.pseudot.org/categories/</loc>
+    <lastmod>2021-09-18T17:20:13+03:00</lastmod>
   </url><url>
-    <loc>https://programming.pseudot.org/tags/translation/</loc>
-    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+    <loc>https://programming.pseudot.org/categories/scripting/</loc>
+    <lastmod>2021-09-18T17:20:13+03:00</lastmod>
   </url><url>
-    <loc>https://programming.pseudot.org/posts/translation/</loc>
-    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+    <loc>https://programming.pseudot.org/tags/utilitaries/</loc>
+    <lastmod>2021-09-18T17:20:13+03:00</lastmod>
   </url><url>
-    <loc>https://programming.pseudot.org/posts/featured-images/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://programming.pseudot.org/tags/chroma/</loc>
-    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://programming.pseudot.org/posts/syntax-highlighting/</loc>
-    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://programming.pseudot.org/tags/markdown/</loc>
-    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://programming.pseudot.org/tags/syntax-highlighting/</loc>
-    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://programming.pseudot.org/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://programming.pseudot.org/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>
